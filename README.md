@@ -9,12 +9,12 @@ Develop Branch -
 ## How to Install and Run the Project
 1. Clone this repo. Navigate to the directory where you'd like to put the va-ohil directory and run:
     ```bash
-    git clone https://github.com/WBDynamics/va-ohil.git
+    git clone https://github.com/blackberggroup/VA-404.git
     ```
     
     This will create a va-ncchi-beta directory with the website files inside. Navigate to this new directory:
     ```bash
-    cd va-ohil
+    cd va-404
     ```
 
 1. Install Node.js `16.16.0` or higher =>
